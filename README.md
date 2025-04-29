@@ -39,9 +39,9 @@ This remake was written in C (C99) with the SDL library.
 * [prust/beast.js](https://github.com/prust/beast.js)
 * [robertprovine/beast](https://github.com/robertprovine/beast)
 
-### Javascript (console, node.js)
+### Rust (console)
 
-* [dominikwilkowski/beast.js](https://github.com/dominikwilkowski/beast.js)
+* [dominikwilkowski/beast](https://github.com/dominikwilkowski/beast)
 
 ### Lua
 
